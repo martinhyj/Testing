@@ -1,0 +1,100 @@
+{
+ "cells": [
+  {
+   "cell_type": "markdown",
+   "metadata": {
+    "collapsed": false
+   },
+   "source": [
+    "# 运行第一个selenium的测试实例"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {
+    "collapsed": false
+   },
+   "source": [
+    "## 问题描述\n",
+    "\n",
+    "在本地安装selenium，并使用selenium进行百度网站的简单搜索测试，将测试结果和代码以截图的形式提交到作业中\n"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {
+    "collapsed": false
+   },
+   "source": [
+    "## selenium安装过程截图\n",
+    "### 我早已安装"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {
+    "collapsed": false
+   },
+   "source": [
+    "## 参考代码\n",
+    "![](https://ai-studio-static-online.cdn.bcebos.com/94dc0651e5bd4661a5b6d94c3acd06919105ecc6a7a24e0a8442e829bf076b97)\n"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {
+    "collapsed": false
+   },
+   "source": [
+    "## 选择的运行环境和代码截图\n",
+    "\n",
+    "* 编码环境 vscode python3.8\n",
+    "* web浏览器环境 谷歌浏览器   \n",
+    "* 代码截图   \n",
+    "![](https://ai-studio-static-online.cdn.bcebos.com/f89dc7c9bc314e4ba216381fb696da6a021e3cde61f34015853dd8a6f7160c61)\n",
+    "\n"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {
+    "collapsed": false
+   },
+   "source": [
+    "## 测试过程与测试结果"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {
+    "collapsed": false
+   },
+   "source": [
+    "### 测试结果\n",
+    "* 运行结果\n",
+    "![](https://ai-studio-static-online.cdn.bcebos.com/3446d9302e1047798f7a0388d79bee42f4f326e0fc9440ce96209e218b2ca1b6)\n"
+   ]
+  }
+ ],
+ "metadata": {
+  "kernelspec": {
+   "display_name": "PaddlePaddle 2.0.0b0 (Python 3.5)",
+   "language": "python",
+   "name": "py35-paddle1.2.0"
+  },
+  "language_info": {
+   "codemirror_mode": {
+    "name": "ipython",
+    "version": 3
+   },
+   "file_extension": ".py",
+   "mimetype": "text/x-python",
+   "name": "python",
+   "nbconvert_exporter": "python",
+   "pygments_lexer": "ipython3",
+   "version": "3.7.4"
+  }
+ },
+ "nbformat": 4,
+ "nbformat_minor": 1
+}

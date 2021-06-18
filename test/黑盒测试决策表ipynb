@@ -1,0 +1,120 @@
+{
+ "cells": [
+  {
+   "cell_type": "markdown",
+   "metadata": {
+    "collapsed": false
+   },
+   "source": [
+    "# 黑盒测试-决策表-自动售货机"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {
+    "collapsed": false
+   },
+   "source": [
+    "## 问题描述\n",
+    "\n",
+    "有一个处理单价为5角钱的饮料的自动售货机，相应规格说明如下:\n",
+    "\n",
+    "1. 若投入5角钱或1元钱的硬币，按下“橙汁”或“啤酒”的按钮，则相应的饮料就会送出来(每次只投入一个硬币，只按下一种饮料的按钮)。\n",
+    "\n",
+    "1. 如投入5角的硬币，按下按钮后总有饮料送出。\n",
+    "\n",
+    "1. 若售货机没有零钱找，则一个显示“零钱找完”的红灯会亮，这时再投入1元并按下按钮后，饮料不送出来而且1元硬币也退出来。出香顶德司如宗长股类份袭\n",
+    "\n",
+    "1. 若有零钱找，则显示“零钱找完”的红灯不会亮，若投入1元硬币及按饮料按钮，则送出饮料的同时找回5角硬币。\n",
+    "\n",
+    "请使用决策表方法的步骤设计出的测试用例。"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {
+    "collapsed": false
+   },
+   "source": [
+    "## 初始决策表\n"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {
+    "collapsed": false
+   },
+   "source": [
+    "![](https://ai-studio-static-online.cdn.bcebos.com/4d028eb5eac0412389ddc70a9bb0f0928118e40b257141fe8463217ecc28093a)\n"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "metadata": {
+    "collapsed": false
+   },
+   "outputs": [],
+   "source": []
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {
+    "collapsed": false
+   },
+   "source": [
+    "## 决策表的简化"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {
+    "collapsed": false
+   },
+   "source": [
+    "![](https://ai-studio-static-online.cdn.bcebos.com/9ef11767d22c4f1f89b99328252222d2c654f4e597394fbea267288934c772d9)\n",
+    "\n"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {
+    "collapsed": false
+   },
+   "source": [
+    "## 决策表测试用例"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {
+    "collapsed": false
+   },
+   "source": [
+    "![](https://ai-studio-static-online.cdn.bcebos.com/33d9c27d46e64f2e83137dd4945c152307193bd5784745c4b228deec1aa24843)\n",
+    "\n"
+   ]
+  }
+ ],
+ "metadata": {
+  "kernelspec": {
+   "display_name": "PaddlePaddle 2.0.0b0 (Python 3.5)",
+   "language": "python",
+   "name": "py35-paddle1.2.0"
+  },
+  "language_info": {
+   "codemirror_mode": {
+    "name": "ipython",
+    "version": 3
+   },
+   "file_extension": ".py",
+   "mimetype": "text/x-python",
+   "name": "python",
+   "nbconvert_exporter": "python",
+   "pygments_lexer": "ipython3",
+   "version": "3.7.4"
+  }
+ },
+ "nbformat": 4,
+ "nbformat_minor": 1
+}
